@@ -1,31 +1,31 @@
 
 <img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
-<h1 align="center">Hello, this is Babul.</h1>
-<h3 align="center">A passionate MERN Stack developer from Dhaka, Bangladesh!</h3>
+<h1 align="center">Hello, this is Monir Hossain.</h1>
+<h3 align="center">A passionate Full Stack developer from Dhaka, Bangladesh!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="netstermonir " /> </p>
 
-<p align="left"> <a href="https://twitter.com/babulakterfsd" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="babulakterfsd" /></a> </p>
+<p align="center"> <a href="https://twitter.com/monirweb" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="monirweb" /></a> </p>
 
-- 💬 Ask me about **React, Node and JavaScript** and any kinda MERN project.
+- 💬 Ask me about **Php,Laravel,Wrdpress,React, Node and JavaScript** and any kinda Any project.
 
-- 📫 How to reach me **babulakterfsd@gmail.com**
+- 📫 How to reach me **freelancermonirweb@gmail.com**
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm an aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** deeply.
-- I'm a quick learner & I love to learn new 💻 **Technologies**.
-- I always love working in **Visual Studio Code** .
-- I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
+- I'm an aspiring 🔭️ Web Developer currently learning 🌱 **React, Nodejs** deeply.
+- I'm a quick learner & I love to learn new modren 💻 **Technologies**.
+- I always love working in **Visual Studio Code & Sublimetext** .
+- I have a more Fiverr client for 💻 **WordPress** and I can do any help with WordPress too.
 
 </br>
 
 ### Connect with Me:
 
-[<img align="left" alt="babulakter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="bbabulakterfsd | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bbabulakterfsd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bbabulakterfsd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<a href="https://www.hackerrank.com/babulakterfsd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
+[<img align="left" alt="monirweb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="monir.wdd | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="monirweb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="monirweb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+<a href="https://www.hackerrank.com/monirweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
 <br />
 
 
@@ -53,9 +53,9 @@
 
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/babulakterfsd) 
+<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/babulakterfsd) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/babulakterfsd) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/babulakterfsd)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/babulakterfsd) -->
  
 
 
@@ -64,15 +64,15 @@
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/babulakterfsd">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/netstermonir">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=netstermonir&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/babulakterfsd/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=babulakterfsd&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/netstermonir/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netstermonir&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babulakterfsd&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netstermonir&theme=radical&hide_border=true"/>
 </p>
 
 <details>
@@ -80,7 +80,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=babulakterfsd&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=netstermonir&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
@@ -88,8 +88,8 @@
  
 
 
-[portfolio]: https://babulakter.com
+<!-- [portfolio]: https://babulakter.com
 [twitter]: https://twitter.com/babulakterfsd
 [facebook]: https://www.facebook.com/babulakterfsd
 [github]: https://github.com/babulakterfsd
-[linkedin]: https://www.linkedin.com/in/babulakterfsd
+[linkedin]: https://www.linkedin.com/in/babulakterfsd -->
