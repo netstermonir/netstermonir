@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="netstermonir " /> </p>
 
-<p align="center"> <a href="https://facebook.com/monir.wdd" target="blank"><img src="https://img.shields.io/facebook/follow/monir.wdd?logo=facebook&style=for-the-badge" alt="monirweb" /></a> </p>
+<p align="center"> <a href="https://twitter.com/dhoom_tech" target="blank"><img src="https://img.shields.io/twitter/follow/dhoom_tech?logo=twitter&style=for-the-badge" alt="monirweb" /></a> </p>
 
 - 💬 Ask me about **Php,Laravel,Wrdpress,React, Node and JavaScript** and any kinda Any project.
 
