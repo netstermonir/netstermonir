@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="netstermonir " /> </p>
 
-<p align="center"> <a href="https://twitter.com/monirweb" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="monirweb" /></a> </p>
+<p align="center"> <a href="https://twitter.com/monirweb" target="blank"><img src="https://img.shields.io/twitter/follow/monirweb?logo=twitter&style=for-the-badge" alt="monirweb" /></a> </p>
 
 - 💬 Ask me about **Php,Laravel,Wrdpress,React, Node and JavaScript** and any kinda Any project.
 
@@ -38,6 +38,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" style="max-width:100%;">
+<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/php/php-icon.svg" style="max-width:100%;">
+<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" style="max-width:100%;">
+<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width:100%;">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -88,8 +92,8 @@
  
 
 
-<!-- [portfolio]: https://babulakter.com
-[twitter]: https://twitter.com/babulakterfsd
-[facebook]: https://www.facebook.com/babulakterfsd
-[github]: https://github.com/babulakterfsd
-[linkedin]: https://www.linkedin.com/in/babulakterfsd -->
+[portfolio]: https://monirweb.com
+[twitter]: https://twitter.com/monirweb
+[facebook]: https://www.facebook.com/monir.wdd
+[github]: https://github.com/netstermonir
+[linkedin]: https://www.linkedin.com/in/monirweb
