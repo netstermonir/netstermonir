@@ -71,7 +71,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netstermonir&theme=radical&hide_border=true"/>
 </p>
 
-<details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
  <p align="center">
@@ -79,10 +78,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=netstermonir&column=8&theme=darkhub"/>
   </a>
  </p>
-</details>
-
- 
-
 
 [portfolio]: https://mdmonir.netlify.app/
 [facebook]: https://www.facebook.com/monirweb.wdd/
