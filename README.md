@@ -20,7 +20,7 @@
 </br>
 <h3> 🤝🏻 &nbsp;Connect with Me: </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://mdmonir.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-netstermonir-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/monirweb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-netstermonir-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:monirhossain6163@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-monirhossain6163@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -28,37 +28,36 @@
 </p>
 <br />
 
+### Technology:
 
-### Languages and Tools:
-
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="max-width:100%;">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" style="max-width:100%;">
-<img align="left" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/php/php-icon.svg" style="max-width:100%;">
-<img align="left" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" style="max-width:100%;">
-<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width:100%;">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width:100%;">
-
-<img align="left" src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width:100%;">
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 <br />
+  ### Tools:
+
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<br/>
 
-  <summary>📊 Github Readme Stats</summary>
+ **Github Readme Stats:** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
  </br>
  <p align="center">
   <a href="https://github.com/netstermonir">
