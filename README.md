@@ -18,14 +18,14 @@
 - I have a more Fiverr client for 💻 **WordPress** and I can do any help with WordPress too.
 
 </br>
+<h3> 🤝🏻 &nbsp;Connect with Me: </h3>
 
-### Connect with Me:
-
-[<img align="left" color="white" alt="monirweb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="monir.wdd | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="monirweb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="monirweb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<a href="https://www.hackerrank.com/monirweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
+<p align="center">
+<a href="https://mdmonir.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-netstermonir-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/monirweb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-netstermonir-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:monirhossain6163@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-monirhossain6163@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.facebook.com/monirweb.wdd"><img alt="facebook" src="https://img.shields.io/badge/Facebook-netstermonir-blue?style=flat-square&logo=facebook"></a>
+</p>
 <br />
 
 
@@ -54,13 +54,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
-
-### Read More:
-
-<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/babulakterfsd) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/babulakterfsd) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/babulakterfsd) -->
- 
 
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -92,8 +85,7 @@
  
 
 
-[portfolio]: https://monirweb.com
-[twitter]: https://twitter.com/monirweb
-[facebook]: https://www.facebook.com/monir.wdd
+[portfolio]: https://mdmonir.netlify.app/
+[facebook]: https://www.facebook.com/monirweb.wdd/
 [github]: https://github.com/netstermonir
 [linkedin]: https://www.linkedin.com/in/monirweb
